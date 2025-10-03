@@ -339,11 +339,9 @@ func getMatcherConfig(opts *options.Grype) matcher.Config {
 		},
 		Stock: stock.MatcherConfig(opts.Match.Stock),
 		Rpm: rpm.MatcherConfig{
-			UseCPEs:              opts.Match.Rpm.UseCPEs,
 			MissingEpochStrategy: opts.Match.Rpm.MissingEpochStrategy,
 		},
 		Dpkg: dpkg.MatcherConfig{
-			UseCPEs:              opts.Match.Dpkg.UseCPEs,
 			MissingEpochStrategy: opts.Match.Dpkg.MissingEpochStrategy,
 		},
 	}
