@@ -1,3 +1,18 @@
+# 🖤🛣️ BlackRoad Enhanced Edition
+
+> **This is a BlackRoad OS, Inc. managed fork**
+> Customized for digital sovereignty and zero vendor lock-in
+
+[![BlackRoad](https://img.shields.io/badge/BlackRoad-OS%2C%20Inc.-FF1D6C?style=for-the-badge)](https://blackroad.io)
+[![License](https://img.shields.io/badge/License-Proprietary-F5A623?style=for-the-badge)](LICENSE)
+[![Managed](https://img.shields.io/badge/Managed%20By-Alexa%20Amundson-2979FF?style=for-the-badge)](https://github.com/blackboxprogramming)
+
+**[📖 BlackRoad Documentation](BLACKROAD.md)** | **[🚀 Deployment Guide](DEPLOYMENT.md)** | **[📜 License](LICENSE)**
+
+---
+
+# Original Project Documentation
+
 <p align="center">
     <img alt="Grype logo" src="https://user-images.githubusercontent.com/5199289/136855393-d0a9eef9-ccf1-4e2b-9d7c-7aad16a567e5.png" width="234">
 </p>
